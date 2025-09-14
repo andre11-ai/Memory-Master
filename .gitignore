@@ -1,0 +1,24 @@
+# Laravel files
+laravel/vendor/
+laravel/node_modules/
+laravel/.env
+laravel/.env.backup
+laravel/public/build/
+laravel/public/hot/
+laravel/storage/*.key
+
+# Node.js dependencies (from existing app)
+Ultra-Memory-master/node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
